@@ -1,4 +1,6 @@
 
+![alt text](C:\Users\anous\Desktop\Anu48\My Github.png)
+
 ### ✨ Hi, I'm Anoushka Shetty (she/her/hers) ✨
 
 ## I'm currently a third year student at UofT
