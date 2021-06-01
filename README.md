@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Anu48/Anu48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ Hi, I'm Anoushka Shetty (she/her/hers) ✨
 
-Here are some ideas to get you started:
+## I'm currently a third year student at UofT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm pursuing a double major in criminology,law and society and computer science.
+- 🔭 I’m currently working on a movie review website with java as my backend.
+- 🌱 I’m currently learning about html and css for my frontend.
+- 💫 I love to try new things whenever the opportunity is given.
+- ⭐ Open to collaborate with new people
+- 🎠 Fun fact: I love to paint and consider myself as a self-proclaimed movie buff. I also used to play the violin when I was younger.
+
+
+### 🌸 2021 Goals: Learn a new hobby and learn some new recipes. 🌸
