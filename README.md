@@ -1,4 +1,4 @@
-![alt text](My Github.png)
+![alt text](My_Github.png)
 
 ### ✨ Hi, I'm Anoushka Shetty (she/her/hers) ✨
 
