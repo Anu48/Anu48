@@ -1,5 +1,4 @@
-
-![alt text](C:\Users\anous\Desktop\Anu48\My Github.png)
+![alt text](My Github.png)
 
 ### ✨ Hi, I'm Anoushka Shetty (she/her/hers) ✨
 
