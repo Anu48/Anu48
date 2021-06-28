@@ -13,3 +13,5 @@
 
 
 ### 🌸 2021 Goals: Learn a new hobby and learn some new recipes. 🌸
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anu48&layout=compact&show_icons=true&include_all_commits=true&title_color=FFFFFF&text_color=C7EDE6&bg_color=DEG,3494E6,EC6EAD)](https://github.com/Anu48/github-readme-stats)
