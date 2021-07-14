@@ -5,7 +5,7 @@
 ## I'm currently a third year student at UofT
 
 - 🎓 I'm pursuing a double major in criminology,law and society and computer science.
-- 🔭 I’m currently working on a movie review website with java as my backend.
+- 🔭 I’m currently working on my personal website and AI voice recognization.
 - 🌱 I’m currently learning about html and css for my frontend.
 - 💫 I love to try new things whenever the opportunity is given.
 - ⭐ Open to collaborate with new people
