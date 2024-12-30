@@ -2,16 +2,12 @@
 
 ### ✨ Hi, I'm Anoushka Shetty (she/her/hers) ✨
 
-## I'm currently a third year student at UofT
-
-- 🎓 I'm pursuing a double major in criminology,law and society and computer science.
-- 🔭 I’m currently working on my personal website and AI voice recognization.
-- 🌱 I’m currently learning about html and css for my frontend.
+- 🎓 I'm pursuing a double major in criminology,law and society and computer science, and a minor in sociology.
+- 🌱 Currently learning more about React to help update my website.
 - 💫 I love to try new things whenever the opportunity is given.
 - ⭐ Open to collaborate with new people
-- 🎠 Fun fact: I love to paint and consider myself as a self-proclaimed movie buff. I also used to play the violin when I was younger.
+- 🎠 Fun fact: I love to paint and consider myself as a self-proclaimed movie buff. 
 
-
-### 🌸 2021 Goals: Learn a new hobby and learn some new recipes. 🌸
+### 🌸 2025 Goals: Learn new recipes and incorporate more hobbies. 🌸
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anu48&layout=compact&show_icons=true&include_all_commits=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,3494E6,EC6EAD)](https://github.com/Anu48/github-readme-stats)
